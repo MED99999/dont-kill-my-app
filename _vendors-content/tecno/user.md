@@ -1,4 +1,4 @@
----
+---роор
 manufacturer:
     - tecno
 
